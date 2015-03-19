@@ -1,0 +1,332 @@
+#Chicago, Illinois
+```
+- center: [41.8755546,-87.6244212]
+- zoom: 12
+L.marker([41.8755546,-87.6244212]).actions.addRemove(S.map)
+```
+
+2002- 2011
+
+#Lexington, Kentucky
+```
+- center: [38.0464066,-84.4970393]
+- zoom: 12
+L.marker([38.0464066,-84.4970393]).actions.addRemove(S.map)
+```
+
+November 2011
+
+#Ypsilanti, MI
+```
+- center: [42.2411499,-83.6129939]
+- zoom: 12
+L.marker([42.2411499,-83.6129939]).actions.addRemove(S.map)
+```
+
+November/December 2011
+
+#Nashville, TN
+```
+- center: [36.1622257,-86.7743419]
+- zoom: 12
+L.marker([36.1622257,-86.7743419]).actions.addRemove(S.map)
+```
+
+December 2011
+
+#Harker Heights, Texas
+```
+- center: [31.0835102,-97.6597377]
+- zoom: 12
+L.marker([31.0835102,-97.6597377]).actions.addRemove(S.map)
+```
+
+December 2011
+
+#Buenos Aires, Argentina
+```
+- center: [-34.612869,-58.4459789]
+- zoom: 12
+L.marker([-34.612869,-58.4459789]).actions.addRemove(S.map)
+```
+
+December 2011- February 2012
+
+#Colonia del Sacramento, Uruguay
+```
+- center: [-34.4698592,-57.8433679]
+- zoom: 12
+L.marker([-34.4698592,-57.8433679]).actions.addRemove(S.map)
+```
+
+January 2012
+
+#Panama City, Panama
+```
+- center: [8.9707433,-79.5344539]
+- zoom: 12
+L.marker([8.9707433,-79.5344539]).actions.addRemove(S.map)
+```
+
+February 2012
+
+#Playa Grande, Costa Rica
+```
+- center: [10.3383024,-85.846758]
+- zoom: 12
+L.marker([10.3383024,-85.846758]).actions.addRemove(S.map)
+```
+
+March 2012
+
+#Red Rock, Texas
+```
+- center: [29.9596656,-97.4461058]
+- zoom: 12
+L.marker([29.9596656,-97.4461058]).actions.addRemove(S.map)
+```
+
+March 2012
+
+#Austin, Texas
+```
+- center: [30.2711286,-97.7436995]
+- zoom: 12
+L.marker([30.2711286,-97.7436995]).actions.addRemove(S.map)
+```
+
+March-April 2012
+
+#Houston, TX
+```
+- center: [29.974291,-95.52668411]
+- zoom: 12
+L.marker([29.974291,-95.52668411]).actions.addRemove(S.map)
+```
+
+April 2012
+
+#Lafayette, Louisiana
+```
+- center: [30.2240897,-92.0198427]
+- zoom: 12
+L.marker([30.2240897,-92.0198427]).actions.addRemove(S.map)
+```
+
+April 2012
+
+#New Orleans, Louisiana
+```
+- center: [29.9499323,-90.0701156]
+- zoom: 12
+L.marker([29.9499323,-90.0701156]).actions.addRemove(S.map)
+```
+
+May 2012
+
+#Jackson, Mississippi
+```
+- center: [32.4104385,-90.16206489]
+- zoom: 12
+L.marker([32.4104385,-90.16206489]).actions.addRemove(S.map)
+```
+
+May 2012
+
+#Chattanooga, Tennessee
+```
+- center: [35.0456297,-85.3096801]
+- zoom: 12
+L.marker([35.0456297,-85.3096801]).actions.addRemove(S.map)
+```
+
+May 2012
+
+#Nashville, Tennessee
+```
+- center: [36.1622257,-86.7743419]
+- zoom: 12
+L.marker([36.1622257,-86.7743419]).actions.addRemove(S.map)
+```
+
+May 2012
+
+#Lexington, Kentucky
+```
+- center: [38.0464066,-84.4970393]
+- zoom: 12
+L.marker([38.0464066,-84.4970393]).actions.addRemove(S.map)
+```
+
+May 2012
+
+#Chicago, Illinois
+```
+- center: [41.8755546,-87.6244212]
+- zoom: 12
+L.marker([41.8755546,-87.6244212]).actions.addRemove(S.map)
+```
+
+June 2012
+
+#Ypsilanti, Michigan
+```
+- center: [42.2411499,-83.6129939]
+- zoom: 12
+L.marker([42.2411499,-83.6129939]).actions.addRemove(S.map)
+```
+
+November 2012
+
+#Lexington, Kentucky
+```
+- center: [38.0464066,-84.4970393]
+- zoom: 12
+L.marker([38.0464066,-84.4970393]).actions.addRemove(S.map)
+```
+
+December 2012
+
+#Lihue, Hawaii
+```
+- center: [21.9811111,-159.3711111]
+- zoom: 12
+L.marker([21.9811111,-159.3711111]).actions.addRemove(S.map)
+```
+
+January 2013
+
+#Lawai, Hawaii
+```
+- center: [21.9219444,-159.5094444]
+- zoom: 12
+L.marker([21.9219444,-159.5094444]).actions.addRemove(S.map)
+```
+
+January 2013
+
+#Hanalei Bay, Hawaii
+```
+- center: [22.21,-159.5091667]
+- zoom: 12
+L.marker([22.21,-159.5091667]).actions.addRemove(S.map)
+```
+
+January 2013
+
+#Honolulu, Hawaii
+```
+- center: [21.304547,-157.8556764]
+- zoom: 12
+L.marker([21.304547,-157.8556764]).actions.addRemove(S.map)
+```
+
+January 2013
+
+#Hilo, Hawaii
+```
+- center: [19.6854458,-155.1003753]
+- zoom: 12
+L.marker([19.6854458,-155.1003753]).actions.addRemove(S.map)
+```
+January 2013
+
+#Kailua-Kona, Hawaii
+```
+- center: [19.6418457,-155.9966291]
+- zoom: 12
+L.marker([19.6418457,-155.9966291]).actions.addRemove(S.map)
+```
+
+January-February 2013
+
+#Madison, Wisconsin
+```
+- center: [43.074761,-89.3837613]
+- zoom: 12
+L.marker([43.074761,-89.3837613]).actions.addRemove(S.map)
+```
+
+February 2013
+
+#Lake Geneva, Wisconsin
+```
+- center: [42.5916836,-88.4334301]
+- zoom: 12
+L.marker([42.5916836,-88.4334301]).actions.addRemove(S.map)
+```
+
+February 2013
+
+#Chicago, IL
+```
+- center: [41.8755546,-87.6244212]
+- zoom: 12
+L.marker([41.8755546,-87.6244212]).actions.addRemove(S.map)
+```
+
+March 2013
+
+#Lexington, KY
+```
+- center: [38.0464066,-84.4970393]
+- zoom: 12
+L.marker([38.0464066,-84.4970393]).actions.addRemove(S.map)
+```
+
+September 2013
+
+#Ann Arbor, Michigan
+```
+- center: [42.2681569,-83.7312291]
+- zoom: 12
+L.marker([42.2681569,-83.7312291]).actions.addRemove(S.map)
+```
+
+September 2013
+
+#Columbus, Ohio
+```
+- center: [39.9622601,-83.0007065]
+- zoom: 12
+L.marker([39.9622601,-83.0007065]).actions.addRemove(S.map)
+```
+
+September 2013
+
+#Erie, Pennsylvania
+```
+- center: [42.129461,-80.085239]
+- zoom: 12
+L.marker([42.129461,-80.085239]).actions.addRemove(S.map)
+```
+
+September 2013
+
+#Philadelphia, Pennsylvania
+```
+- center: [39.952335,-75.163789]
+- zoom: 12
+L.marker([39.952335,-75.163789]).actions.addRemove(S.map)
+```
+
+September 2013
+
+#Washington, D.C.
+```
+- center: [38.904,-77.0164]
+- zoom: 12
+L.marker([38.904,-77.0164]).actions.addRemove(S.map)
+```
+
+September 2013
+
+#San Francisco, California
+```
+- center: [37.7647993,-122.4629897]
+- zoom: 12
+L.marker([37.7647993,-122.4629897]).actions.addRemove(S.map)
+```
+
+September 2013
+
